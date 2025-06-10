@@ -8,14 +8,41 @@
 </p>
 
 
-## 🚀 About Me
+<!-- About Banner -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" height="250" />
+</p>
 
-- 🔭 CTO @ [**Erthaloka**](https://erthaloka.com) – Pioneering a **tech-enabled circular economy** using **Blockchain, AI, and AR/VR**  
-- 🧩 Founder of [**Xenveda Technologies**](https://github.com/xenveda) – Delivering future-proof tech stacks for startups and enterprises  
-- 🏗️ Building: Web3 ecosystems, DAOs, DeFi platforms, immersive EdTech experiences, sustainable architecture tools  
-- 🧪 Currently exploring: **ZK rollups**, **Cross-chain protocols**, **Tokenomics**, **Decentralized Identity**, and **DePIN**  
-- 🌱 I aim to merge **tech + sustainability + impact** through ethical innovation  
-- 🧠 I mentor, build, and design for the future.
+<!-- Animated Heading -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=16F7F2&center=true&vCenter=true&width=435&lines=Tech+%E2%9A%99%EF%B8%8F+%2B+Sustainability+%F0%9F%8C%B1+%2B+Impact+%3D+Future;Let's+build+for+Earth+%26+Beyond+%F0%9F%9A%80" alt="Typing SVG" />
+</h3>
+
+<!-- Profile Summary -->
+<ul>
+  <li>🔭 <strong>CTO</strong> @ <a href="https://erthaloka.com"><strong>Erthaloka</strong></a> – Pioneering a <span style="color:#00FFD1;"><strong>tech-enabled circular economy</strong></span> using <strong>Blockchain</strong>, <strong>AI</strong>, and <strong>AR/VR</strong> 🌐</li>
+
+  <li>🧩 <strong>Founder</strong> of <a href="https://github.com/xenveda"><strong>Xenveda Technologies</strong></a> – Delivering <strong>future-proof</strong> tech stacks for <em>startups</em> & <em>enterprises</em> 🛠️</li>
+
+  <li>🏗️ Building: <code>DAOs</code> · <code>DeFi</code> · <code>Immersive EdTech</code> · <code>Web3 Ecosystems</code> · <code>Sustainable Design Tools</code></li>
+
+  <li>🧪 Exploring: <code>ZK Rollups</code> · <code>Cross-chain</code> · <code>Tokenomics</code> · <code>DID</code> · <code>DePIN</code> 🔬</li>
+
+  <li>🌱 Blending <strong>Tech + Sustainability + Ethics</strong> to create global impact 💚</li>
+
+  <li>🧠 I <strong>mentor</strong>, <strong>architect</strong>, and <strong>design</strong> the future of innovation 🚀</li>
+</ul>
+
+<!-- 3D Tech Tags -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Blockchain-3C3C3D?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AR%2FVR-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web3-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ZK%20Rollups-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-DePIN-0055FF?style=for-the-badge"/>
+</p>
+
 
 ---
 
