@@ -80,15 +80,63 @@
 
 - 🧠 I mentor, build, design, and dream for the future 🔮
 
+---
 
 ## 🧠 My Focus Areas
 
-- 🌐 **Decentralized Applications (DApps)**  
-- 💸 **DeFi Protocols & Token Economies**  
-- 🕶️ **AR/VR Solutions for Architecture & Education**  
-- 🤖 **AI-Powered Smart Governance Tools**  
-- ⚙️ **DevOps for Scalable Web3 Products**  
-- 🌍 **Sustainable Innovation for Community Impact**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=🔮+Merging+Tech%2C+Impact%2C+and+Innovation.;⚙️+Web3%2C+AI%2C+AR%2FVR%2C+DeFi+%2C+Sustainable+Dev.;🧠+Building+Future-ready+Ecosystems." alt="Typing SVG" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://lottie.host/13e4dc4b-38f2-4825-8e2f-08830048aa83/xR83BAlCP9.json" width="80" />
+  <br/>
+  <strong>Decentralized Applications (DApps)</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/Web3-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+</td>
+<td align="center" width="33%">
+  <img src="https://lottie.host/3b424317-57e7-443f-b6ff-9d2bda13b29f/IbDpcKx6wG.json" width="80" />
+  <br/>
+  <strong>DeFi Protocols & Token Economies</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/DeFi-Uniswap-purple?style=flat-square&logo=uniswap&logoColor=white" />
+</td>
+<td align="center" width="33%">
+  <img src="https://lottie.host/e19c04b2-1b0a-4c41-8033-70cfecfb18fb/d4hRRU6rXu.json" width="80" />
+  <br/>
+  <strong>AR/VR for Architecture & EdTech</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/XR-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+  <img src="https://lottie.host/fbc7c618-147e-4212-864d-41f9b5e7f14e/ffW0OCNAvd.json" width="80" />
+  <br/>
+  <strong>AI-Powered Smart Governance</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/AI-GovTech-black?style=flat-square&logo=openai&logoColor=white" />
+</td>
+<td align="center" width="33%">
+  <img src="https://lottie.host/375dc62c-2956-40e2-9829-3c0373a9b011/Y2aYeY8uUz.json" width="80" />
+  <br/>
+  <strong>DevOps for Web3 Scalability</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/DevOps-GitHubActions-24292e?style=flat-square&logo=githubactions&logoColor=white" />
+</td>
+<td align="center" width="33%">
+  <img src="https://lottie.host/1b1b2b0b-c64d-48c4-a181-5e7ff53b2db3/wrG8o10cFL.json" width="80" />
+  <br/>
+  <strong>Sustainable Innovation</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/Impact-Tech4Good-10B981?style=flat-square&logo=leaflet&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
