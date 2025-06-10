@@ -46,6 +46,41 @@
 
 ---
 
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=CTO+%40+Erthaloka+%7C+Arteco;Founder+%40+Xenveda+%7C+Tripzio;Web3+%7C+AI+%7C+DePIN+%7C+XR+Builder;Merging+Tech+with+Sustainability+%F0%9F%8C%8D" alt="Typing SVG" />
+</p>
+
+- 🔭 CTO @ [**Erthaloka**](https://erthaloka.com) – Pioneering a <strong>tech-enabled circular economy</strong>  
+  ![Blockchain](https://img.shields.io/badge/Blockchain-101010?style=flat&logo=blockchaindotcom&logoColor=white)  
+  ![AI](https://img.shields.io/badge/AI-black?style=flat&logo=openai&logoColor=white)  
+  ![AR/VR](https://img.shields.io/badge/AR%2FVR-552583?style=flat&logo=unity&logoColor=white)
+
+- 🏗️ CTO @ **Arteco** – Building tools at the intersection of architecture, circular design, and immersive tech  
+  ![Unity](https://img.shields.io/badge/Unity-3D--Worlds-black?style=flat&logo=unity&logoColor=white)  
+  ![Sustainable Design](https://img.shields.io/badge/Sustainable_Design-%23A1C935?style=flat)
+
+- 🧩 Founder of [**Xenveda Technologies**](https://github.com/xenveda) – Delivering <strong>future-proof tech stacks</strong> for startups and enterprises  
+  ![Cloud](https://img.shields.io/badge/Cloud-Native-blue) ![DevOps](https://img.shields.io/badge/DevOps-Automation-orange)
+
+- 🌍 Founder of **Tripzio** – Redefining immersive travel with AI + XR  
+  ![TravelTech](https://img.shields.io/badge/TravelTech-Innovation-yellowgreen)  
+  ![XR](https://img.shields.io/badge/XR-Exploration-lightblue)
+
+- 🧪 Exploring frontier tech:  
+  ![ZK Rollups](https://img.shields.io/badge/ZK_Rollups-grey?style=flat&logo=zk&logoColor=white)  
+  ![Cross-chain](https://img.shields.io/badge/Cross--Chain-orange?style=flat&logo=bitcoin&logoColor=white)  
+  ![Tokenomics](https://img.shields.io/badge/Tokenomics-Ethereum?style=flat&logo=ethereum&logoColor=white)  
+  ![DePIN](https://img.shields.io/badge/DePIN-Green?style=flat&logo=databricks&logoColor=white)  
+  ![DID](https://img.shields.io/badge/DID-Identity-purple)
+
+- 🌱 Mission: Fuse <strong>Tech + Sustainability + Impact</strong> through <strong>ethical innovation</strong> 🌱  
+  🤝 Empowering communities with decentralized, scalable, and inclusive systems
+
+- 🧠 I mentor, build, design, and dream for the future 🔮
+
+
 ## 🧠 My Focus Areas
 
 - 🌐 **Decentralized Applications (DApps)**  
