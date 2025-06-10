@@ -154,7 +154,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" />
     </td>
-
     <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" width="60" />
       <br/><strong style="color:#06B6D4">Frameworks</strong><br/>
@@ -165,7 +164,6 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
-
     <td width="33%" align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/9753/9753956.png" width="60" />
       <br/><strong style="color:#A855F7">Blockchain</strong><br/>
