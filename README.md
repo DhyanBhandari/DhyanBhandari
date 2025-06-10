@@ -158,7 +158,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" />
     </td>
-
     <td width="33%" align="center">
       <img src="https://lottie.host/e4264dc1-1eb3-420b-9bb4-73396718ec2a/ZLGmfgOd7f.json" width="80" />
       <br/><strong style="color:#06B6D4">Frameworks</strong><br/>
@@ -169,7 +168,6 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
-
     <td width="33%" align="center">
       <img src="https://lottie.host/eabfb9e1-fb20-4d4e-99b5-1395e2eab679/2KcrjAvvCQ.json" width="80" />
       <br/><strong style="color:#A855F7">Blockchain</strong><br/>
