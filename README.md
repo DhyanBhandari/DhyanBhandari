@@ -395,3 +395,403 @@
 <p align="center">
   <strong>My mission:</strong> Drive purpose-driven innovation in <strong>Web3</strong>, <strong>AI</strong>, and <strong>immersive tech</strong> 🌐🤖🕶️
 </p>
+
+---
+
+Here's your updated Markdown content, focusing on using icons and GIFs as you requested.
+
+Upon review, you've already done an excellent job of incorporating dynamic elements like `readme-typing-svg`, Lottie animations, and Shields.io badges, which inherently serve as animated text, icons, and dynamic visual representations instead of static images. The existing `.gif` and `.svg` links (like the contribution snake) also fit your criteria for "gifs instead of images."
+
+Therefore, the content below maintains your current structure, as it already aligns well with your preference for dynamic visuals over static images.
+
+-----
+
+\<h1 align="center"\>Hi 👋, I'm Surya Prakash\</h1\>
+\<h3 align="center"\>CTO @ Erthaloka | Founder @ Xenveda | Full-Stack & Blockchain Innovator | Builder of Decentralized Futures\</h3\>
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" alt="Typing SVG" /\>
+\</p\>
+
+\<\!-- About Banner --\>
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" height="250" /\>
+\</p\>
+
+\<\!-- Animated Heading --\>
+
+\<h3 align="center"\>
+\<img src="[suspicious link removed]" alt="Typing SVG" /\>
+\</h3\>
+
+\<\!-- Profile Summary --\>
+
+\<ul\>
+\<li\>🔭 \<strong\>CTO\</strong\> @ \<a href="[https://erthaloka.com](https://erthaloka.com)"\>\<strong\>Erthaloka\</strong\>\</a\> – Pioneering a \<span style="color:\#00FFD1;"\>\<strong\>tech-enabled circular economy\</strong\>\</span\> using \<strong\>Blockchain\</strong\>, \<strong\>AI\</strong\>, and \<strong\>AR/VR\</strong\> 🌐\</li\>
+
+\<li\>🧩 \<strong\>Founder\</strong\> of \<a href="[https://github.com/xenveda](https://github.com/xenveda)"\>\<strong\>Xenveda Technologies\</strong\>\</a\> – Delivering \<strong\>future-proof\</strong\> tech stacks for \<em\>startups\</em\> & \<em\>enterprises\</em\> 🛠️\</li\>
+
+\<li\>🏗️ Building: \<code\>DAOs\</code\> · \<code\>DeFi\</code\> · \<code\>Immersive EdTech\</code\> · \<code\>Web3 Ecosystems\</code\> · \<code\>Sustainable Design Tools\</code\>\</li\>
+
+\<li\>🧪 Exploring: \<code\>ZK Rollups\</code\> · \<code\>Cross-chain\</code\> · \<code\>Tokenomics\</code\> · \<code\>DID\</code\> · \<code\>DePIN\</code\> 🔬\</li\>
+
+\<li\>🌱 Blending \<strong\>Tech + Sustainability + Ethics\</strong\> to create global impact 💚\</li\>
+
+\<li\>🧠 I \<strong\>mentor\</strong\>, \<strong\>architect\</strong\>, and \<strong\>design\</strong\> the future of innovation 🚀\</li\>
+\</ul\>
+
+\<\!-- 3D Tech Tags --\>
+
+\<p align="center"\>
+\<img src="[suspicious link removed]"/\>
+\<img src="[suspicious link removed]"/\>
+\<img src="[suspicious link removed]"/\>
+\<img src="[suspicious link removed]"/\>
+\<img src="[suspicious link removed]"/\>
+\<img src="[suspicious link removed]"/\>
+\</p\>
+
+-----
+
+## 🚀 About Me
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" alt="Typing SVG" /\>
+\</p\>
+
+  - 🔭 CTO @ [**Erthaloka**](https://erthaloka.com) – Pioneering a **tech-enabled circular economy**   
+      
+
+  - 🏗️ CTO @ **Arteco** – Building tools at the intersection of architecture, circular design, and immersive tech  
+      
+
+  - 🧩 Founder of [**Xenveda Technologies**](https://github.com/xenveda) – Delivering **future-proof tech stacks** for startups and enterprises  
+     
+
+  - 🌍 Founder of **Tripzio** – Redefining immersive travel with AI + XR  
+      
+
+  - 🧪 Exploring frontier tech:  
+      
+      
+      
+      
+
+  - 🌱 Mission: Fuse **Tech + Sustainability + Impact** through **ethical innovation** 🌱  
+    🤝 Empowering communities with decentralized, scalable, and inclusive systems
+
+  - 🧠 I mentor, build, design, and dream for the future 🔮
+
+-----
+
+## 🧠 My Focus Areas
+
+\<p align="center"\>
+\<img src="[suspicious link removed]✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" /\>
+\</p\>
+
+\<div align="center"\>
+
+\<table width="100%"\>
+\<tr\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#3B82F6"\>Decentralized Applications (DApps)\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#F59E0B"\>DeFi & Token Economies\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#8B5CF6"\>AR/VR for Architecture & EdTech\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\</tr\>
+
+\<tr height="30"\>\</tr\> \<\!-- spacing --\>
+
+\<tr\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#10B981"\>AI-Powered Smart Governance\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#06B6D4"\>DevOps for Web3 Scalability\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td align="center" width="33%"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\<br/\>
+\<strong style="color:\#22C55E"\>Sustainable Innovation\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\</tr\>
+\</table\>
+
+\</div\>
+
+-----
+
+## 💼 Tech Stack
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" alt="Typing SVG" /\>
+\</p\>
+
+\<table\>
+\<tr\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#3B82F6"\>Languages\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#06B6D4"\>Frameworks\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#A855F7"\>Blockchain\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\</tr\>
+
+\<tr height="30"\>\</tr\>
+
+\<tr\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#10B981"\>DevOps & Tools\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#EC4899"\>Design Tools\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\<td width="33%" align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\<br/\>\<strong style="color:\#FACC15"\>Cloud & Infrastructure\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\<img src="[suspicious link removed]" /\>
+\</td\>
+\</tr\>
+\</table\>
+
+-----
+
+## ✨ Featured Projects
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" alt="Typing Featured Projects" /\>
+\</p\>
+
+\<table\>
+\<tr\>
+\<td align="center" width="18%"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td width="82%"\>
+\<strong\>🌱 \<a href="[https://erthaloka.com](https://erthaloka.com)"\>Erthaloka Ecosystem\</a\>\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+A \<strong\>circular economy\</strong\> for sustainability powered by $ERTHA token, AR/VR visualization & DAO governance.  
+🔗 \<a href="[https://erthaloka.com](https://erthaloka.com)"\>Live Site\</a\>
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>🧠 Decentralized AI Governance\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+AI-driven smart contracts for decentralized policy decisions, consensus automation, and governance logic.  
+🔗 Coming Soon
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>🏛️ DAO Treasury System\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+Transparent DAO treasury system with proposals, voting, and fund tracking through smart contracts.  
+🔗 \<a href="\#"\>GitHub\</a\>
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>🎮 AR/VR Learning Platform\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+Immersive EdTech experience with interactive 3D learning environments, architecture, and XR.  
+🔗 \<a href="\#"\>GitHub\</a\>
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>🧾 Decentralized Resume Builder\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+Blockchain-based resume generator with encrypted, verifiable credentials and on-chain access.  
+🔗 \<a href="\#"\>GitHub\</a\>
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>💰 CryptoBank DApp\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+A DeFi platform for staking, lending, and token-based savings with ERC-20 integration.  
+🔗 \<a href="\#"\>Live\</a\>
+\</td\>
+\</tr\>
+
+\<tr\>\<td colspan="2"\>\<hr/\>\</td\>\</tr\>
+
+\<tr\>
+\<td align="center"\>
+\<img src="[suspicious link removed]" width="80" /\>
+\</td\>
+\<td\>
+\<strong\>🛒 \<a href="[suspicious link removed]"\>Dappazon (Decentralized Amazon)\</a\>\</strong\>\<br/\>
+\<img src="[suspicious link removed]" /\>\<br/\>
+Decentralized e-commerce platform that mimics Amazon functionality using smart contracts.  
+🔗 \<a href="[suspicious link removed]"\>GitHub\</a\>
+\</td\>
+\</tr\>
+\</table\>
+
+-----
+
+## 📊 GitHub Stats & Trophies
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\</p\>
+
+\<div align="center"\>
+
+\<img src="[suspicious link removed]" alt="GitHub Stats" width="45%"/\>
+\<img src="[suspicious link removed]" alt="Streak Stats" width="45%"/\>
+
+\<br/\>\<br/\>
+
+\<img src="[suspicious link removed]" width="90%" /\>
+
+\<br/\>\<br/\>
+
+\<img src="[suspicious link removed]" width="90%" /\>
+
+\</div\>
+
+-----
+
+## 🐍 Contribution Snake
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" alt="Contribution Snake" /\>
+\</p\>
+
+-----
+
+## 📫 Let's Connect
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" width="100" /\>
+\</p\>
+
+\<p align="center"\>
+\<a href="[suspicious link removed]" target="\_blank" style="margin: 0 15px;"\>
+\<img src="[suspicious link removed]" alt="LinkedIn" /\>
+\</a\>
+\&nbsp;\&nbsp;
+\<a href="mailto:suryaprakash@example.com" target="\_blank" style="margin: 0 15px;"\>
+\<img src="[suspicious link removed]" alt="Gmail" /\>
+\</a\>
+\&nbsp;\&nbsp;
+\<a href="[suspicious link removed]" target="\_blank" style="margin: 0 15px;"\>
+\<img src="[suspicious link removed]" alt="Twitter" /\>
+\</a\>
+\&nbsp;\&nbsp;
+\<a href="[suspicious link removed]" target="\_blank" style="margin: 0 15px;"\>
+\<img src="[suspicious link removed]" alt="GitHub" /\>
+\</a\>
+\</p\>
+
+-----
+
+\<p align="center"\>
+\<img src="[suspicious link removed]" width="90" /\>
+\</p\>
+
+\<h3 align="center"\>
+🧭 \<i\>“Build. Design. Empower.”\</i\>  
+\</h3\>
+
+\<p align="center"\>
+\<strong\>My mission:\</strong\> Drive purpose-driven innovation in \<strong\>Web3\</strong\>, \<strong\>AI\</strong\>, and \<strong\>immersive tech\</strong\> 🌐🤖🕶️
+\</p\>
