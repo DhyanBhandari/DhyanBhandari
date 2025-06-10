@@ -88,6 +88,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" />
 </p>
 
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
@@ -97,7 +98,7 @@
       <img src="https://img.shields.io/badge/Web3-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/10431/10431880.png" width="60" />
+      ![DeFi](https://img.shields.io/badge/DeFi-Uniswap-purple?style=for-the-badge&logo=uniswap&logoColor=white)
       <br/>
       <strong style="color:#F59E0B">DeFi & Token Economies</strong><br/>
       <img src="https://img.shields.io/badge/DeFi-Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" />
@@ -145,7 +146,7 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://lottie.host/7a6f01de-6fef-4a4b-bfc2-92887a984329/oUnF6kpKLS.json" width="80" />
+      <img src="https://cdn-icons-png.flaticon.com/512/11518/11518452.png" width="60" />
       <br/><strong style="color:#3B82F6">Languages</strong><br/>
       <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -153,8 +154,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" />
     </td>
+
     <td width="33%" align="center">
-      <img src="https://lottie.host/e4264dc1-1eb3-420b-9bb4-73396718ec2a/ZLGmfgOd7f.json" width="80" />
+      <img src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" width="60" />
       <br/><strong style="color:#06B6D4">Frameworks</strong><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -163,8 +165,9 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
+
     <td width="33%" align="center">
-      <img src="https://lottie.host/eabfb9e1-fb20-4d4e-99b5-1395e2eab679/2KcrjAvvCQ.json" width="80" />
+      <img src="https://cdn-icons-png.flaticon.com/512/9753/9753956.png" width="60" />
       <br/><strong style="color:#A855F7">Blockchain</strong><br/>
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
       <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
@@ -175,43 +178,7 @@
       <img src="https://img.shields.io/badge/DAOstack-0C0C0C?style=for-the-badge" />
     </td>
   </tr>
-
-  <tr height="30"></tr>
-
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://lottie.host/999eefba-e119-4b96-abb2-398769ae49fd/6G3Db1FBkW.json" width="80" />
-      <br/><strong style="color:#10B981">DevOps & Tools</strong><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://lottie.host/e8c41bd3-3ea6-4f69-b8fc-1144d67db0b4/qfSDWEkkp1.json" width="80" />
-      <br/><strong style="color:#EC4899">Design Tools</strong><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-      <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://lottie.host/91116cc4-9a90-455b-9d84-280fce089c4f/BspW8dV3vD.json" width="80" />
-      <br/><strong style="color:#FACC15">Cloud & Infrastructure</strong><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-    </td>
-  </tr>
 </table>
-
 
 ---
 
