@@ -4,7 +4,7 @@
 <h3 align="center">CTO @ Erthaloka | Founder @ Xenveda | Full-Stack & Blockchain Innovator | Builder of Decentralized Futures</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Blockchain+Developer;AR%2FVR+Tech+Evangelist;AI%2FML+Specialist;Founder+%26+CTO+at+Erthaloka;Design+%7C+Scale+%7C+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&Center=true&vCenter=true&width=600&lines=Full-Stack+Blockchain+Developer;AR%2FVR+Tech+Evangelist;AI%2FML+Specialist;Founder+%26+CTO+at+Erthaloka;Design+%7C+Scale+%7C+Innovate" alt="Typing SVG" />
 </p>
 
 
@@ -85,7 +85,7 @@
 ## 🧠 My Focus Areas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&Center=true&vCenter=true&width=800&lines=✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" />
 </p>
 
 <div align="center">
