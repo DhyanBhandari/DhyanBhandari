@@ -1,4 +1,4 @@
-Here's a **more expanded, beautifully structured, and rich GitHub Profile README** content just for you, Surya — adding more detail, animation-ready sections, and showcasing your blockchain/AR/VR leadership and innovation clearly for interviewers and recruiters:
+
 
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
 <h3 align="center">CTO @ Erthaloka | Founder @ Xenveda | Full-Stack & Blockchain Innovator | Builder of Decentralized Futures</h3>
