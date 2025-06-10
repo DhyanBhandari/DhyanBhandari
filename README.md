@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/Web3-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      ![DeFi](https://img.shields.io/badge/DeFi-Uniswap-purple?style=for-the-badge&logo=uniswap&logoColor=white)
+     <img src="https://img.shields.io/badge/DeFi-Uniswap-purple?style=for-the-badge&logo=uniswap&logoColor=white" />
       <br/>
       <strong style="color:#F59E0B">DeFi & Token Economies</strong><br/>
       <img src="https://img.shields.io/badge/DeFi-Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" />
