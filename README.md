@@ -85,59 +85,54 @@
 ## 🧠 My Focus Areas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&Center=true&vCenter=true&width=800&lines=✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=✨+Innovating+Across+Web3%2C+AI%2C+XR+%26+Sustainability;⚙️+Engineering+Scalable+Tech+for+Positive+Impact" alt="Typing SVG" />
 </p>
 
-<div align="center">
-
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://lottie.host/13e4dc4b-38f2-4825-8e2f-08830048aa83/xR83BAlCP9.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/6001/6001374.png" width="60" />
       <br/>
       <strong style="color:#3B82F6">Decentralized Applications (DApps)</strong><br/>
       <img src="https://img.shields.io/badge/Web3-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://lottie.host/3b424317-57e7-443f-b6ff-9d2bda13b29f/IbDpcKx6wG.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/10431/10431880.png" width="60" />
       <br/>
       <strong style="color:#F59E0B">DeFi & Token Economies</strong><br/>
       <img src="https://img.shields.io/badge/DeFi-Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://lottie.host/e19c04b2-1b0a-4c41-8033-70cfecfb18fb/d4hRRU6rXu.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/8775/8775352.png" width="60" />
       <br/>
       <strong style="color:#8B5CF6">AR/VR for Architecture & EdTech</strong><br/>
       <img src="https://img.shields.io/badge/XR-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
     </td>
   </tr>
 
-  <tr height="30"></tr> <!-- spacing -->
+  <tr height="30"></tr>
 
   <tr>
     <td align="center" width="33%">
-      <img src="https://lottie.host/fbc7c618-147e-4212-864d-41f9b5e7f14e/ffW0OCNAvd.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/4413/4413893.png" width="60" />
       <br/>
       <strong style="color:#10B981">AI-Powered Smart Governance</strong><br/>
       <img src="https://img.shields.io/badge/AI-GovTech-111827?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://lottie.host/375dc62c-2956-40e2-9829-3c0373a9b011/Y2aYeY8uUz.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/10850/10850705.png" width="60" />
       <br/>
       <strong style="color:#06B6D4">DevOps for Web3 Scalability</strong><br/>
       <img src="https://img.shields.io/badge/DevOps-GitHubActions-24292e?style=for-the-badge&logo=githubactions&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://lottie.host/1b1b2b0b-c64d-48c4-a181-5e7ff53b2db3/wrG8o10cFL.json" width="90" />
+      <img src="https://cdn-icons-png.flaticon.com/512/9246/9246248.png" width="60" />
       <br/>
       <strong style="color:#22C55E">Sustainable Innovation</strong><br/>
       <img src="https://img.shields.io/badge/Impact-Tech4Good-16A34A?style=for-the-badge&logo=leaflet&logoColor=white" />
     </td>
   </tr>
 </table>
-
-</div>
-
 
 ---
 
